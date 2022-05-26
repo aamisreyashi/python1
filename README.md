@@ -2,5 +2,5 @@
 python 01 programming 
 
 Hello , 
-I am Sreyashi Das. This is 
+I am Sreyashi Das. This is first programming on github.
  
